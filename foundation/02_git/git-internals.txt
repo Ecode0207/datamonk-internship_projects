@@ -1,0 +1,15 @@
+# Git Internals Lab
+
+## Blob Inspection (# +++)
+Command:
+git cat-file -p <blob-hash>
+
+Output:
+[screenshot attached]
+
+## Commit Inspection (# +++)
+Command:
+git cat-file -p <commit-hash>
+
+Output:
+[screenshot attached]
